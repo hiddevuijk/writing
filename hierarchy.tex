@@ -1,15 +1,73 @@
 \section{Hierarchy}
+Space and time are the two basic properties used to organize perceptions of the world around us. Real world events unfold over a wide range of length and time scales. A strategy the the brain has developed to make sense of these perception is a hierarchy in processing of information. -- check, rewrite --
 
-Ungerleider and Mishkin \cite{mishkin1983object} put forward evidence for a two distinct cortical visual pathways, the ventral and dorsal pathway. The distinction is made on basis of functional processing; the ventral pathway is specialized in determining what an object is, and the dorsal pathway in determining the location of an object. Milner and Goodale \cite{milner2008two, goodale1992separate} also found the same two pathway, but in their view the ventral stream is specialized in perception and the dorsal stream in action. -- rewrite -- --read neuroscience book --
+Visual information enters the brain in the primary visual cortex.
+Ungerleider and Mishkin \cite{mishkin1983object} put forward evidence for a two distinct cortical visual pathways, the ventral and dorsal pathway, which go through the temporal and parietal cortex, respectively; see figure \ref{fig:visualpathways}. 
+\begin{figure}[!ht]
+\label{fig:visualpathways}
+\includegraphics[scale=1]{hierarchy_figures/visualpathways}
+\caption{find better image!!!}
+\end{figure}
+The distinction is made on basis of the function: the ventral pathway is specialized in determining what an object is, and the dorsal pathway in determining the location of an object.
+A later study, by  Milner and Goodale \cite{milner2008two, goodale1992separate}, found the same two pathways; however, they characterized the pathways in a different manner. They concluded that the ventral stream is specialized in perception and the dorsal stream in action.
+The ventral and dorsal pathways exist in other sensory systems as well.
 
-One of the fundamental organizational principles of the visual system in brain is the increase in the size of the receptive field along the a cortical visual pathway \cite{hubel1988eye,hubel1962receptive,lerner2001hierarchical} -- check ref --. In the primary visual cortex, an area early in the visual pathway, the receptive field is small. Further along the visual pathway neurons receive input from an increasing number of neurons, which have a smaller receptive field. This results in integration of stimuli over a larger spatial field, which enables brain functions such as size invariant object recognition \cite{kobatake1994neuronal}.Much research has been done on the spatial integration of information in the visual pathway \cite{deyoe1996mapping} -- put in some examples --. 
+One of the fundamental organizational principles of the visual system in brain is the increase in the size of the spatial receptive field (SRF) along the a cortical visual pathway \cite{hubel1988eye,hubel1962receptive,lerner2001hierarchical}.
+In the primary visual cortex,  the starting point of the visual pathway, the SRF is small.
+Further along the visual pathway neurons receive input from an increasing number of neurons, each with a smaller SRF. This results in integration of stimuli over a larger space, which enables brain functions such as size invariant object recognition \cite{kobatake1994neuronal}.
+Much research has been done on the spatial integration of information in the visual pathway \cite{deyoe1996mapping} -- put in some examples --. 
+
+Recent experimental research, inspired by the SRF, has shown the a similar hierarchy exists in the processing time scale in the brain \cite{hasson2008hierarchy, lerner2011topographic, honey2012slow}.
+Lerner et al. used a scrambled story to show the existence of a temporal hierarchy \cite{lerner2011topographic}.
+As a measure for the timescale the temporal receptive window (TRW) is defined as the length of time before a response during which sensory information may affect that response.
+The TRW is the homologue of the SRF in the spatial hierarchy. 
+The TRWs of different brain areas was determined by measuring the reliability of neural responses, in human subjects, as a result of listening to a narrated story of seven minutes. This story was played 4 times, each time scrambled on  different timescale. In the short timescale story the words of the story were scrambled (segments of $1 \pm 0.5 s$). In the intermediate scrambled story the sentences were scrambled (segments of $7 \pm 3 s$). For the long timescale story the paragraphs were scrambled (segment of $38 \pm 17 s$). For the story with the shortest timescale the story was played backwards (coherent on $<1 s$ timescale). By comparing the reliability of different neuronal responses to the scrambled stories one is able to characterize one of the computational properties of a brain area, i.e. --  -- the TRW. The neuronal responses were measured using fMRI BOLD analysis (see appendix \ref{app:A}. The reliability of a response was determined by intersubject correlation analysis: comparing the BOLD signal response time courses across different subjects using the Pearson correlation coefficient:
+\begin{equation}\label{eq:intersubject_corrrelation}
+\rho_k = \rho(r_k,\bar{r}) = \frac{r_k(t) \cdot \bar{r}(t)}{•\sqrt{(r_k(t) \cdot r_k(t))(\bar{r}(t) \cdot \bar{r} (t))}},
+\end{equation}
+with $r_k(t)$ the mean-subtracted response time course of a voxel of subject k. The mean response, $\bar{r}(t)=\sum_{i\neq k} r_i(t)$ , is the response time course averaged over all subjects except subject k. The dots represents inner products. The results from the intersubject analysis is shown in figure \ref{fig:timescale_hierarchy}.
+
+\begin{figure}[!ht]
+\label{fig:timescale_hierarchy}
+\centering
+\includegraphics[scale=0.38]{hierarchy_figures/temporal_hierarchy}
+\caption{
+The results from the intersubject analysis. 
+A voxel was colored red if the voxel has a significant correlation coefficient (eq. \ref{eq:intersubject_corrrelation}) for all types of stories.
+A voxel was colored yellow if it has a significant correlation coefficient for all stories except backwards played story.
+The green voxels correspond to voxels with a significant correlation coefficient for all types of stories except the backwards played and word scrambled stories.
+A green voxel corresponds to a voxel with a significant correlation coefficient only for the paragraph scrambled story.
+The correlation coefficient of a voxel is deemed significant if the coefficient is above a certain value for all subjects (for details see \cite{lerner2011topographic}).
+The circled numbers are positioned along the A1-TPJ axis. With 1 indicating A1 an early area and 5 TPJ (the temporal-perietal junction) a higher order area.
+A and P indicate respectively the anterior and posterior of the brain.
+Figure taken from \cite{lerner2011topographic}. }
+\end{figure}
+
+These results show that the reliability of the neuronal response in different brain areas varies as the temporal structure of the information is modified. The response reliability in early auditory areas is not affected by changing the temporal structure of the story. Higher order auditory brain areas have a increased neuronal response reliability as the temporal structure of the stimulus is increased.
+Previously, a similar study has been done, also using fMRI BOLD analysis, but with a silent movie instead of a narrated story \cite{hasson2008hierarchy}. Combining the results from the narrated story and the movie, see figure \ref{fig:timescale_hierarchy_story_movie}, suggests that the structure in the hierarchy of the TRWs is a general organizational principle in the human cortex. The early visual and auditory area have short TRWs, and the TRWs increase as one move to higher order areas. Some higher order areas  have a  mutlimodal TRW, as they process long temporal structures, whether presented aurally or visually.
+
+
+\begin{figure}[!ht]
+\label{fig:timescale_hierarchy_story_movie}
+\centering
+\includegraphics[scale=0.38]{hierarchy_figures/temporal_hierarchy_story_movie}
+\caption{
+TRW hierarchy as a general topographic organizational principle of the human cortex.
+(A) The response reliability of the scrambled narrated story. (B) The response reliability of the silent movie. (C) Superposition of both response reliabilities. 
+Figure taken from \cite{lerner2011topographic}.
+}
+\end{figure}
+Recently a similar study has been done with a scrambled movie with sound, but using ECoG in stead of fMRI BOLD analysis -- ?-- \cite{honey2012slow}. The results from that study corroborated the conclusion from Hasson et al. and Lerner et al. that there exists a -- topographic hierarchy -- in the TRW of the brain areas. In addition Honey et al. showed that slow components of neuronal dynamics are more prominent in regions with longer TRWs compared with regions with shorter TRWs. And that regions with a longer TRW exhibit a greater temporal autocorrelation than regions with a shorter TRW. These findings are consistent with the hypothesis that early sensory brain areas, with a short TRW, are optimized for tracking rapid response to the input, and that, on the other hand, higher order areas, which have a longer TRW, accumulate information over time \cite{huk2005neural, ogawa2010differential, romo1999neuronal, shadlen2001neural, wang2002probabilistic}.
+-- why is ecog important -- 
+
+
+Where information enters the brain it is sensitive to information with a short timescale. Further along the hierarchy it is sensitive to information with a longer timescale.
+Neurons in early sensory areas have a short TRW of the order of tens of milliseconds, which means that they integrate over a short period of time, and are, therefore, sensitive for rapid changes in the stimuli.
+Neurons in higher areas have a longer TRW, of the order of minutes, and retain information from a past stimuli, this enables these areas to process events that unfold over a certain time span\cite{hasson2008hierarchy, lerner2011topographic, honey2012slow}. 
+A longer TRW is useful for perceptual and cognitive tasks such as segmenting ongoing activity in temporal parts \cite{zacks2001human,hasson2008hierarchy}, short-term memory \cite{hasson2015hierarchical, durstewitz2000neurocomputational}, inference of cause and effect \cite{fonlupt2003perception}, and processing language with a wide variety of time scales (e.g. complete narrative, paragraph, sentence, and words) \cite{xu2005language, lerner2011topographic}.
+Lerner et al. found that the TRWs of the brain areas rescale, up to a certain limit, when the incoming rate of information is changed \cite{lerner2014temporal}.
+Though the rate of incoming information can modulate the TRWs, the time scale gradient is an intrinsic property of neural circuits \cite{stephens2013place}.
+-- see lerner 2011 topographic p2914 -- 
 
 
 -- anatomical hierarchy study van essen, see refs in wandell visual field maps --
-
-
-Inspired by the receptive field hierarchy it as been shown that a similar hierarchy exists for the temporal receptive windows (TRW) in the human brain, for both the visual as the auditory pathway. The  TRW is defined as the length of time before a response during which sensory information may affect that response -- copied --. Neurons in early sensory areas have a short TRW of the order of tens of milliseconds, which means that they integrate over a short period of time, and are, therefore, sensitive for rapid changes in the stimuli. Neurons in higher areas have a longer TRW, of the order of minutes, and retain information from a past stimuli, this enables these areas to process events that unfold over a certain time span\cite{hasson2008hierarchy, lerner2011topographic, honey2012slow}. A longer TRW is useful for perceptual and cognitive tasks such as segmenting ongoing activity in temporal parts \cite{zacks2001human,hasson2008hierarchy}, short-term memory \cite{hasson2015hierarchical, durstewitz2000neurocomputational}, inference of cause and effect \cite{fonlupt2003perception}, and processing language with a wide variety of time scales (e.g. complete narrative, paragraph, sentence, and words) \cite{xu2005language, lerner2011topographic}. Lerner et al. found that the TRWs of the brain areas rescale, up to a certain limit, when the incoming rate of information is changed \cite{lerner2014temporal}. Though the rate of incoming information can modulate the TRWs, the time scale gradient is an intrinsic property of neural circuits \cite{stephens2013place}.
-
--- theoretical/computational research --
-
-
