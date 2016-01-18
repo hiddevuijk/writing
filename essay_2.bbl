@@ -38,14 +38,6 @@ Eucaly Kobatake and Keiji Tanaka.
   visual pathway of the macaque cerebral cortex.
 \newblock {\em Journal of neurophysiology}, 71(3):856--867, 1994.
 
-\bibitem{deyoe1996mapping}
-Edgar~A DeYoe, George~J Carman, Peter Bandettini, Seth Glickman, Jon Wieser,
-  Robert Cox, David Miller, and Jay Neitz.
-\newblock Mapping striate and extrastriate visual areas in human cerebral
-  cortex.
-\newblock {\em Proceedings of the National Academy of Sciences},
-  93(6):2382--2386, 1996.
-
 \bibitem{hasson2008hierarchy}
 Uri Hasson, Eunice Yang, Ignacio Vallines, David~J Heeger, and Nava Rubin.
 \newblock A hierarchy of temporal receptive windows in human cortex.
@@ -130,10 +122,98 @@ Yulia Lerner, Christopher~J Honey, Mikhail Katkov, and Uri Hasson.
   natural speech.
 \newblock {\em Journal of neurophysiology}, 111(12):2433--2444, 2014.
 
+\bibitem{sheinberg2001noticing}
+David~L Sheinberg and Nikos~K Logothetis.
+\newblock Noticing familiar objects in real world scenes: the role of temporal
+  cortical neurons in natural vision.
+\newblock {\em The Journal of Neuroscience}, 21(4):1340--1350, 2001.
+
+\bibitem{furmanski2004learning}
+Christopher~S Furmanski, Denis Schluppeck, and Stephen~A Engel.
+\newblock Learning strengthens the response of primary visual cortex to simple
+  patterns.
+\newblock {\em Current Biology}, 14(7):573--578, 2004.
+
+\bibitem{moran1985selective}
+Jeffrey Moran and Robert Desimone.
+\newblock Selective attention gates visual processing in the extrastriate
+  cortex.
+\newblock {\em Science}, 229(4715):782--784, 1985.
+
 \bibitem{stephens2013place}
 Greg~J Stephens, Christopher~J Honey, and Uri Hasson.
 \newblock A place for time: the spatiotemporal structure of neural dynamics
   during natural audition.
 \newblock {\em Journal of neurophysiology}, 110(9):2019--2026, 2013.
+
+\bibitem{chaudhuri2015large-scale}
+Rishidev Chaudhuri, Kenneth Knoblauch, Marie-Alice Gariel, Henry Kennedy, and
+  Xiao-Jing Wang.
+\newblock A large-scale circuit mechanism for hierarchical dynamical processing
+  in the primate cortex.
+\newblock {\em Neuron}, 88(2):419 -- 431, 2015.
+
+\bibitem{markov2012weighted}
+NT~Markov, MM~Ercsey-Ravasz, AR~Ribeiro Gomes, C~Lamy, L~Magrou, J~Vezoli,
+  P~Misery, A~Falchier, R~Quilodran, MA~Gariel, et~al.
+\newblock A weighted and directed interareal connectivity matrix for macaque
+  cerebral cortex.
+\newblock {\em Cerebral Cortex}, page bhs270, 2012.
+
+\bibitem{markov2014anatomy}
+Nikola~T Markov, Julien Vezoli, Pascal Chameau, Arnaud Falchier, Ren{\'e}
+  Quilodran, Cyril Huissoud, Camille Lamy, Pierre Misery, Pascale Giroud,
+  Shimon Ullman, et~al.
+\newblock Anatomy of hierarchy: feedforward and feedback pathways in macaque
+  visual cortex.
+\newblock {\em Journal of Comparative Neurology}, 522(1):225--259, 2014.
+
+\bibitem{markov2011weight}
+NT~Markov, P~Misery, A~Falchier, C~Lamy, J~Vezoli, R~Quilodran, MA~Gariel,
+  P~Giroud, M~Ercsey-Ravasz, LJ~Pilaz, et~al.
+\newblock Weight consistency specifies regularities of macaque cortical
+  networks.
+\newblock {\em Cerebral Cortex}, 21(6):1254--1272, 2011.
+
+\bibitem{kennedy2013data}
+Henry Kennedy, Kenneth Knoblauch, and Zolt{\'a}n Toroczkai.
+\newblock Why data coherence and quality is critical for understanding
+  interareal cortical networks.
+\newblock {\em Neuroimage}, 80:37--45, 2013.
+
+\bibitem{felleman1991distributed}
+Daniel~J Felleman and David~C Van~Essen.
+\newblock Distributed hierarchical processing in the primate cerebral cortex.
+\newblock {\em Cerebral cortex}, 1(1):1--47, 1991.
+
+\bibitem{elston2000pyramidal}
+Guy~N Elston.
+\newblock Pyramidal cells of the frontal lobe: all the more spinous to think
+  with.
+\newblock {\em The Journal of neuroscience: the official journal of the Society
+  for Neuroscience}, 20(18):RC95--RC95, 2000.
+
+\bibitem{elston2011pyramidal}
+Guy~N Elston, Ruth Benavides-Piccione, Alejandra Elston, Paul~R Manger, and
+  Javier DeFelipe.
+\newblock Pyramidal cells in prefrontal cortex of primates: marked differences
+  in neuronal structure among species.
+\newblock {\em Frontiers in neuroanatomy}, 5, 2011.
+
+\bibitem{chaudhuri2014diversity}
+Rishidev Chaudhuri, Alberto Bernacchia, and Xiao-Jing Wang.
+\newblock A diversity of localized timescales in network activity.
+\newblock {\em Elife}, 3:e01239, 2014.
+
+\bibitem{binzegger2009topology}
+Tom Binzegger, Rodney~J Douglas, and Kevan~AC Martin.
+\newblock Topology and dynamics of the canonical circuit of cat v1.
+\newblock {\em Neural Networks}, 22(8):1071--1078, 2009.
+
+\bibitem{rugh1993linear}
+W.J. Rugh.
+\newblock {\em Linear System Theory}.
+\newblock Prentice-Hall information and systems sciences series. Prentice Hall,
+  1993.
 
 \end{thebibliography}

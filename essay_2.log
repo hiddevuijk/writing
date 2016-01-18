@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.29)  12 JAN 2016 13:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.29)  17 JAN 2016 17:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -604,66 +604,53 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-ABD: EveryShipout initializing macros (./hierarchy.tex
+ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 58.
+ (./essay_2.toc
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
-
-<hierarchy_figures/visualpathways.jpg, id=29, 259.97125pt x 195.73125pt>
-File: hierarchy_figures/visualpathways.jpg Graphic file (type jpg)
-
-<use hierarchy_figures/visualpathways.jpg>
-Package pdftex.def Info: hierarchy_figures/visualpathways.jpg used on input lin
-e 8.
-(pdftex.def)             Requested size: 259.97061pt x 195.73076pt.
- [1
-
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./hiera
-rchy_figures/visualpathways.jpg>]
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 24.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 2.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 24.
-
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 2.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 24.
-
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 2.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 24.
-
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 2.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 24.
+(Font)              scaled to size 11.40997pt on input line 2.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 24.
+(Font)              scaled to size 8.33606pt on input line 2.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 24.
+(Font)              scaled to size 6.25204pt on input line 2.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 24.
+(Font)              scaled to size 11.40997pt on input line 2.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 24.
+(Font)              scaled to size 8.33606pt on input line 2.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 24.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 24.
-
+(Font)              scaled to size 6.25204pt on input line 2.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 2.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -672,52 +659,105 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+)
+\tf@toc=\write4
+\openout4 = `essay_2.toc'.
+
+ [1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./hier
+archy.tex
+<hierarchy_figures/visualpathways.jpg, id=35, 259.97125pt x 195.73125pt>
+File: hierarchy_figures/visualpathways.jpg Graphic file (type jpg)
+
+<use hierarchy_figures/visualpathways.jpg>
+Package pdftex.def Info: hierarchy_figures/visualpathways.jpg used on input lin
+e 7.
+(pdftex.def)             Requested size: 259.97061pt x 195.73076pt.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 15.
+ [2 <./hierarchy_figures/visualpathways.jpg>]
 Missing character: There is no â in font pplr7t!
 Missing character: There is no € in font pplr7t!
 Missing character: There is no ¢ in font pplr7t!
 
-<hierarchy_figures/temporal_hierarchy.png, id=36, 928.46875pt x 585.18625pt>
+<hierarchy_figures/temporal_hierarchy.png, id=39, 928.46875pt x 585.18625pt>
 File: hierarchy_figures/temporal_hierarchy.png Graphic file (type png)
 
 <use hierarchy_figures/temporal_hierarchy.png>
 Package pdftex.def Info: hierarchy_figures/temporal_hierarchy.png used on input
- line 33.
+ line 43.
 (pdftex.def)             Requested size: 352.8218pt x 222.37308pt.
- [2]
-<hierarchy_figures/temporal_hierarchy_story_movie.png, id=47, 828.09375pt x 684
+ [3]
+<hierarchy_figures/temporal_hierarchy_story_movie.png, id=50, 828.09375pt x 684
 .5575pt>
 File: hierarchy_figures/temporal_hierarchy_story_movie.png Graphic file (type p
 ng)
  <use hierarchy_figures/temporal_hierarchy_story_movie.png>
 Package pdftex.def Info: hierarchy_figures/temporal_hierarchy_story_movie.png u
-sed on input line 53.
+sed on input line 67.
 (pdftex.def)             Requested size: 314.6789pt x 260.13455pt.
- [3 <./hierarchy_figures/temporal_hierarchy.png>] [4 <./hierarchy_figures/tempo
-ral_hierarchy_story_movie.png>]) (./balance.tex) (./appendixA.tex [5]) [6] (./e
-ssay_2.bbl
-[7]) [8] (./essay_2.aux) ) 
+ [4 <./hierarchy_figures/temporal_hierarchy.png>]) (./hierarchy_macaque.tex [5 
+<./hierarchy_figures/temporal_hierarchy_story_movie.png>] [6]
+Overfull \hbox (11.5335pt too wide) detected at line 30
+\OML/zplm/m/it/10.95 ^^\[][]^^W[] \OT1/zplm/m/n/10.95 = \OMS/zplm/m/n/10.95 ^^@
+\OML/zplm/m/it/10.95 ^^W[] \OT1/zplm/m/n/10.95 + \OML/zplm/m/it/10.95 ^^L[] [][
+]
+ []
+
+
+Overfull \hbox (3.16858pt too wide) detected at line 34
+\OML/zplm/m/it/10.95 ^^\[][]^^W[] \OT1/zplm/m/n/10.95 = \OMS/zplm/m/n/10.95 ^^@
+\OML/zplm/m/it/10.95 ^^W[] \OT1/zplm/m/n/10.95 + \OML/zplm/m/it/10.95 ^^L[] [][
+] \OT1/ppl/m/n/10.95 ,
+ []
+
+<wang_figures/mainfig.png, id=60, 1006.76125pt x 627.34375pt>
+File: wang_figures/mainfig.png Graphic file (type png)
+
+<use wang_figures/mainfig.png>
+Package pdftex.def Info: wang_figures/mainfig.png used on input line 47.
+(pdftex.def)             Requested size: 302.0307pt x 188.20457pt.
+
+<wang_figures/time_consts.png, id=61, 988.69376pt x 271.0125pt>
+File: wang_figures/time_consts.png Graphic file (type png)
+
+<use wang_figures/time_consts.png>
+Package pdftex.def Info: wang_figures/time_consts.png used on input line 65.
+(pdftex.def)             Requested size: 296.61041pt x 81.30437pt.
+
+<wang_figures/eigenvecs.png, id=62, 586.19pt x 471.7625pt>
+File: wang_figures/eigenvecs.png Graphic file (type png)
+
+<use wang_figures/eigenvecs.png>
+Package pdftex.def Info: wang_figures/eigenvecs.png used on input line 82.
+(pdftex.def)             Requested size: 234.47185pt x 188.70164pt.
+ [7]) (./balance.tex [8 <./wang_figures/mainfig.png>] [9 <./wang_figures/time_c
+onsts.png> <./wang_figures/eigenvecs.png>])
+(./appendixA.tex [10]) (./appendixB.tex [11]) [12] (./essay_2.bbl [13] [14]
+[15]) [16] (./essay_2.aux) ) 
 Here is how much of TeX's memory you used:
- 15157 strings out of 493117
- 298743 string characters out of 6135433
- 359333 words of memory out of 5000000
- 18148 multiletter control sequences out of 15000+600000
- 28935 words of font info for 145 fonts, out of 8000000 for 9000
+ 15250 strings out of 493117
+ 300183 string characters out of 6135433
+ 361435 words of memory out of 5000000
+ 18191 multiletter control sequences out of 15000+600000
+ 36416 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,80p,1237b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/b
-ase/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/loca
-l/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on essay_2.pdf (8 pages, 1066383 bytes).
+ 62i,9n,80p,1132b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips
+/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathpazo/fplmr.p
+fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on essay_2.pdf (16 pages, 1610058 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 126 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13948 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 18059 words of extra memory for PDF output out of 20736 (max. 10000000)
 

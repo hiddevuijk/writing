@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Hierarchy}{2}
+\contentsline {subsection}{\numberline {1.1}Processing hierarchy}{2}
+\contentsline {subsection}{\numberline {1.2} A large-scale dynamical model}{6}
+\contentsline {section}{\numberline {2}Balance}{9}
+\contentsline {section}{\numberline {3}Appendix A}{11}
+\contentsline {section}{\numberline {4}Appendix B}{12}
+\contentsline {section}{References}{13}
