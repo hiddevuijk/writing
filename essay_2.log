@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.29)  17 JAN 2016 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.29)  19 JAN 2016 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -699,62 +699,49 @@ sed on input line 67.
 (pdftex.def)             Requested size: 314.6789pt x 260.13455pt.
  [4 <./hierarchy_figures/temporal_hierarchy.png>]) (./hierarchy_macaque.tex [5 
 <./hierarchy_figures/temporal_hierarchy_story_movie.png>] [6]
-Overfull \hbox (11.5335pt too wide) detected at line 30
-\OML/zplm/m/it/10.95 ^^\[][]^^W[] \OT1/zplm/m/n/10.95 = \OMS/zplm/m/n/10.95 ^^@
-\OML/zplm/m/it/10.95 ^^W[] \OT1/zplm/m/n/10.95 + \OML/zplm/m/it/10.95 ^^L[] [][
-]
- []
-
-
-Overfull \hbox (3.16858pt too wide) detected at line 34
-\OML/zplm/m/it/10.95 ^^\[][]^^W[] \OT1/zplm/m/n/10.95 = \OMS/zplm/m/n/10.95 ^^@
-\OML/zplm/m/it/10.95 ^^W[] \OT1/zplm/m/n/10.95 + \OML/zplm/m/it/10.95 ^^L[] [][
-] \OT1/ppl/m/n/10.95 ,
- []
-
 <wang_figures/mainfig.png, id=60, 1006.76125pt x 627.34375pt>
 File: wang_figures/mainfig.png Graphic file (type png)
 
 <use wang_figures/mainfig.png>
-Package pdftex.def Info: wang_figures/mainfig.png used on input line 47.
+Package pdftex.def Info: wang_figures/mainfig.png used on input line 48.
 (pdftex.def)             Requested size: 302.0307pt x 188.20457pt.
 
 <wang_figures/time_consts.png, id=61, 988.69376pt x 271.0125pt>
 File: wang_figures/time_consts.png Graphic file (type png)
 
 <use wang_figures/time_consts.png>
-Package pdftex.def Info: wang_figures/time_consts.png used on input line 65.
+Package pdftex.def Info: wang_figures/time_consts.png used on input line 66.
 (pdftex.def)             Requested size: 296.61041pt x 81.30437pt.
-
-<wang_figures/eigenvecs.png, id=62, 586.19pt x 471.7625pt>
+ [7]
+<wang_figures/eigenvecs.png, id=66, 586.19pt x 471.7625pt>
 File: wang_figures/eigenvecs.png Graphic file (type png)
 
 <use wang_figures/eigenvecs.png>
-Package pdftex.def Info: wang_figures/eigenvecs.png used on input line 82.
+Package pdftex.def Info: wang_figures/eigenvecs.png used on input line 83.
 (pdftex.def)             Requested size: 234.47185pt x 188.70164pt.
- [7]) (./balance.tex [8 <./wang_figures/mainfig.png>] [9 <./wang_figures/time_c
-onsts.png> <./wang_figures/eigenvecs.png>])
-(./appendixA.tex [10]) (./appendixB.tex [11]) [12] (./essay_2.bbl [13] [14]
-[15]) [16] (./essay_2.aux) ) 
+ [8 <./wang_figures/mainfig.png>])
+(./balance.tex [9 <./wang_figures/time_consts.png> <./wang_figures/eigenvecs.pn
+g>]) (./appendixA.tex [10]) (./appendixB.tex [11]) [12] (./essay_2.bbl [13]
+[14] [15]) [16] (./essay_2.aux) ) 
 Here is how much of TeX's memory you used:
- 15250 strings out of 493117
- 300183 string characters out of 6135433
- 361435 words of memory out of 5000000
- 18191 multiletter control sequences out of 15000+600000
- 36416 words of font info for 175 fonts, out of 8000000 for 9000
+ 15272 strings out of 493117
+ 300494 string characters out of 6135433
+ 360475 words of memory out of 5000000
+ 18201 multiletter control sequences out of 15000+600000
+ 37040 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,9n,80p,1132b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips
-/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathpazo/fplmr.p
-fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/lo
-cal/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on essay_2.pdf (16 pages, 1610058 bytes).
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/
+dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathpazo/fp
+lmr.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/mathpazo/fplmri.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on essay_2.pdf (16 pages, 1612569 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream

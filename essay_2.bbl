@@ -216,4 +216,61 @@ W.J. Rugh.
 \newblock Prentice-Hall information and systems sciences series. Prentice Hall,
   1993.
 
+\bibitem{haider2006neocortical}
+Bilal Haider, Alvaro Duque, Andrea~R Hasenstaub, and David~A McCormick.
+\newblock Neocortical network activity in vivo is generated through a dynamic
+  balance of excitation and inhibition.
+\newblock {\em The Journal of neuroscience}, 26(17):4535--4545, 2006.
+
+\bibitem{shu2003turning}
+Yousheng Shu, Andrea Hasenstaub, and David~A McCormick.
+\newblock Turning on and off recurrent balanced cortical activity.
+\newblock {\em Nature}, 423(6937):288--293, 2003.
+
+\bibitem{okun2008instantaneous}
+Michael Okun and Ilan Lampl.
+\newblock Instantaneous correlation of excitation and inhibition during ongoing
+  and sensory-evoked activities.
+\newblock {\em Nature neuroscience}, 11(5):535--537, 2008.
+
+\bibitem{xue2014equalizing}
+Mingshan Xue, Bassam~V Atallah, and Massimo Scanziani.
+\newblock Equalizing excitation-inhibition ratios across visual cortical
+  neurons.
+\newblock {\em Nature}, 511(7511):596--600, 2014.
+
+\bibitem{wehr2003balanced}
+Michael Wehr and Anthony~M Zador.
+\newblock Balanced inhibition underlies tuning and sharpens spike timing in
+  auditory cortex.
+\newblock {\em Nature}, 426(6965):442--446, 2003.
+
+\bibitem{shadlen1998variable}
+Michael~N Shadlen and William~T Newsome.
+\newblock The variable discharge of cortical neurons: implications for
+  connectivity, computation, and information coding.
+\newblock {\em The Journal of neuroscience}, 18(10):3870--3896, 1998.
+
+\bibitem{shadlen1994noise}
+Michael~N Shadlen and William~T Newsome.
+\newblock Noise, neural codes and cortical organization.
+\newblock {\em Current opinion in neurobiology}, 4(4):569--579, 1994.
+
+\bibitem{vreeswijk1996chaos}
+Carl van Vreeswijk and Haim Sompolinsky.
+\newblock Chaos in neuronal networks with balanced excitatory and inhibitory
+  activity.
+\newblock {\em Science}, 274(5293):1724--1726, 1996.
+
+\bibitem{vreeswijk1998chaotic}
+Carl~van Vreeswijk and Haim Sompolinsky.
+\newblock Chaotic balanced state in a model of cortical circuits.
+\newblock {\em Neural computation}, 10(6):1321--1371, 1998.
+
+\bibitem{arieli1996dynamics}
+Amos Arieli, Alexander Sterkin, Amiram Grinvald, and Ad~Aertsen.
+\newblock Dynamics of ongoing activity: explanation of the large variability in
+  evoked cortical responses.
+\newblock {\em Science}, 273(5283):1868--1871, 1996.
+
 \end{thebibliography}

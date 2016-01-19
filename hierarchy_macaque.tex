@@ -24,14 +24,15 @@ Previously Chaudhuri et al. showed, using a simpler network architecture, that i
 To study the dynamics a threshold linear model was used, where each area is modeled as a single node which exists in an excitatory and an inhibitory version.
 The resulting  network has 58 nodes. 
 The time-evolution -- check -- of the firing rates of the nodes in the inhibitory and excitatory population, $\nu_I$ and $\nu_E$ respectively, are governed by the following equations,
-\begin{equation}
+\begin{multline}
 \label{eq:wang_exc}
-\tau_E \frac{d}{dt} \nu_E^i = - \nu_E^i + \beta_E \left[ \left( 1+\eta h_i \right) \left( w_{EE} \nu_E^i + \mu_{EE} \sum_{j=1}^N FLN_{ij} \nu_E^j \right) - w_{EI} \nu_I^i+ I_{ext,E}^i \right]_+
-\end{equation}
-\begin{equation}
+\tau_E \frac{d}{dt} \nu_E^i = - \nu_E^i + \\ \beta_E \left[ \left( 1+\eta h_i \right) \left( w_{EE} \nu_E^i + \mu_{EE} \sum_{j=1}^N FLN_{ij} \nu_E^j \right) - w_{EI} \nu_I^i+ I_{ext,E}^i \right]_+,
+\end{multline}
+
+\begin{multline}
 \label{eq:wang_inh}
-\tau_I \frac{d}{dt} \nu_I^i = - \nu_I^i + \beta_I \left[ \left( 1+\eta h_i \right) \left( w_{IE} \nu_E^i + \mu_{IE} \sum_{j=1}^N FLN_{ij} \nu_E^j \right) - w_{II} \nu_I^i+ I_{ext,I}^i \right]_+,
-\end{equation}
+\tau_I \frac{d}{dt} \nu_I^i =  - \nu_I^i + \\  \beta_I \left[ \left( 1+\eta h_i \right) \left( w_{IE} \nu_E^i + \mu_{IE} \sum_{j=1}^N FLN_{ij} \nu_E^j \right) - w_{II} \nu_I^i+ I_{ext,I}^i \right]_+,
+\end{multline}
 with
 \begin{equation*}
 \left[x \right]_+ = \begin{cases}
@@ -58,7 +59,7 @@ Figure taken from \cite{chaudhuri2015large-scale}.
 The response of the nodes in the network to pulsed input to area V1, in the primary visual cortex, is shown in figure \ref{fig:wang_fig} A. Early areas such as V1 and V4 can track the pulse with greater accuracy than latter areas; e.g., 24c where the response to the pulse is smeared out over several seconds.
 As a measure for the time constant of each area the decay time of the autocorrelation of the response to white noise input to area V1 are used \ref{fig:wang_fig} B and C.
 The decay time of the areas tend to increase along the hierarchy \ref{fig:wang_fig} D.
-Though a trend is ... , the time scales do not increase monotonously along the hierarchy. 
+Though a trend is apparent, the time scales do not increase monotonously along the hierarchy. 
 
 \begin{figure}[!ht]
 \centering

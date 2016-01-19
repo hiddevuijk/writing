@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.29)  17 JAN 2016 15:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.29)  19 JAN 2016 12:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2393,106 +2393,212 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no , in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 16--27
+! LaTeX Error: Environment multline undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \begin{multline}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 \tau
+         _E \frac{d}{dt} \nu_E^i = - \nu_E^i + \\ \beta_E \left[ \left( 1+\e...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: \begin{document} ended by \end{multline}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \end{multline}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30 \end{multline}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--31
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--27
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--31
 []
  []
 
 
-Overfull \hbox (23.33333pt too wide) in paragraph at lines 16--27
+Overfull \hbox (23.33333pt too wide) in paragraph at lines 16--31
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5 \OML/cmm/m/it/10 <
  []
 
 
-Overfull \hbox (52.97327pt too wide) in paragraph at lines 16--27
+Overfull \hbox (52.97327pt too wide) in paragraph at lines 16--31
 \OML/cmm/m/it/10 SLN[] <
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 16--27
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 16--31
 \OT1/cmr/m/n/10 1$
  []
 
 
-Overfull \hbox (15.55553pt too wide) in paragraph at lines 16--27
+Overfull \hbox (15.55553pt too wide) in paragraph at lines 16--31
 \OT1/cmr/m/n/10 0 \OML/cmm/m/it/10 <
  []
 
 
-Overfull \hbox (52.97327pt too wide) in paragraph at lines 16--27
+Overfull \hbox (52.97327pt too wide) in paragraph at lines 16--31
 \OML/cmm/m/it/10 SLN[] <
  []
 
 
-Overfull \hbox (12.77782pt too wide) in paragraph at lines 16--27
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 16--31
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 16--27
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 16--31
 []
  []
 
 
-Overfull \hbox (15.20598pt too wide) in paragraph at lines 16--27
+Overfull \hbox (15.20598pt too wide) in paragraph at lines 16--31
 \OML/cmm/m/it/10 h \OMS/cmsy/m/n/10 2
  []
 
 
-Overfull \hbox (21.11113pt too wide) in paragraph at lines 16--27
+Overfull \hbox (21.11113pt too wide) in paragraph at lines 16--31
 \OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1]$
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--27
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--31
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--27
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--31
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--27
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--31
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--27
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--31
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--27
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 16--31
 []
  []
 
 
-Overfull \hbox (9.52803pt too wide) in paragraph at lines 16--27
+Overfull \hbox (9.52803pt too wide) in paragraph at lines 16--31
 \OML/cmm/m/it/10 ^^W[]$
  []
 
 
-Overfull \hbox (11.69539pt too wide) in paragraph at lines 16--27
+Overfull \hbox (11.69539pt too wide) in paragraph at lines 16--31
 \OML/cmm/m/it/10 ^^W[]$
  []
 
 
-Overfull \hbox (366.40648pt too wide) detected at line 30
-[]\OML/cmm/m/it/10 ^^\[][]^^W[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@\OML/cmm/
-m/it/10 ^^W[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ^^L[] [][]
+Overfull \hbox (42.96172pt too wide) in paragraph at lines 16--31
+\OML/cmm/m/it/10 ^^\[][]^^W[] \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (353.51202pt too wide) detected at line 34
-[]\OML/cmm/m/it/10 ^^\[][]^^W[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@\OML/cmm/
-m/it/10 ^^W[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ^^L[] [][] ;
+Overfull \hbox (27.25099pt too wide) in paragraph at lines 16--31
+\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 ^^W[] \OT1/cmr/m/n/10 +
  []
+
+
+Overfull \hbox (297.23344pt too wide) in paragraph at lines 16--31
+\OML/cmm/m/it/10 ^^L[] [][] ;$ 
+ []
+
+
+! LaTeX Error: Environment multline undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \begin{multline}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.34 \tau
+         _I \frac{d}{dt} \nu_I^i =  - \nu_I^i + \\  \beta_I \left[ \left( 1+...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \tau
+         _I \frac{d}{dt} \nu_I^i =  - \nu_I^i + \\  \beta_I \left[ \left( 1+...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{multline}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \end{multline}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.35 \end{multline}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
 Missing character: There is no w in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -2505,7 +2611,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 \begin{equation*}
+l.37 \begin{equation*}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2514,13 +2620,13 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.37 \left
+l.38 \left
           [x \right]_+ = \begin{cases}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Misplaced alignment tab character &.
-l.38 	x, &
+l.39 	x, &
            \text{if } x>0\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2530,7 +2636,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.38 	x, & \text
+l.39 	x, & \text
                 {if } x>0\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2539,7 +2645,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Misplaced alignment tab character &.
-l.39 	0, &
+l.40 	0, &
            \text{if } x\leq0.
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2549,7 +2655,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Undefined control sequence.
-l.39 	0, & \text
+l.40 	0, & \text
                 {if } x\leq0.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2564,7 +2670,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 \end{equation*}
+l.42 \end{equation*}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2573,7 +2679,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.41 \end{equation*}
+l.42 \end{equation*}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2848,7 +2954,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.43 ...ken from ref. \cite{binzegger2009topology}
+l.44 ...ken from ref. \cite{binzegger2009topology}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2858,72 +2964,87 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `binzegger2009topology' on page  undefined on input lin
-e 43.
+e 44.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (28.46527pt too wide) in paragraph at lines 34--44
-  $[][] \OT1/cmr/m/n/10 =
+Overfull \hbox (58.627pt too wide) in paragraph at lines 34--45
+[]$\OML/cmm/m/it/10 ^^\[][]^^W[] \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (45.38112pt too wide) in paragraph at lines 34--44
+Overfull \hbox (25.08363pt too wide) in paragraph at lines 34--45
+\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 ^^W[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (286.39665pt too wide) in paragraph at lines 34--45
+\OML/cmm/m/it/10 ^^L[] [][] ;$
+ []
+
+
+Overfull \hbox (28.46527pt too wide) in paragraph at lines 34--45
+[][] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (45.38112pt too wide) in paragraph at lines 34--45
 [] \OML/cmm/m/it/10 ; []x >
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 34--44
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 34--45
 \OT1/cmr/m/n/10 0[] 
  []
 
 
-Overfull \hbox (35.1326pt too wide) in paragraph at lines 34--44
+Overfull \hbox (35.1326pt too wide) in paragraph at lines 34--45
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; []x \OMS/cmsy/m/n/10 ^^T
  []
 
 
-Overfull \hbox (7.7778pt too wide) in paragraph at lines 34--44
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 34--45
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :$
  []
 
 
-Overfull \hbox (5.32408pt too wide) in paragraph at lines 34--44
+Overfull \hbox (5.32408pt too wide) in paragraph at lines 34--45
 \OML/cmm/m/it/10 ^^Q$
  []
 
 
-Overfull \hbox (3.44513pt too wide) in paragraph at lines 34--44
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 34--45
 \OML/cmm/m/it/10 i$
  []
 
 
-Overfull \hbox (4.69049pt too wide) in paragraph at lines 34--44
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 34--45
 \OML/cmm/m/it/10 j$
  []
 
 
-Overfull \hbox (9.09087pt too wide) in paragraph at lines 34--44
+Overfull \hbox (9.09087pt too wide) in paragraph at lines 34--45
 \OML/cmm/m/it/10 h[]$
  []
 
 
-Overfull \hbox (24.8761pt too wide) in paragraph at lines 34--44
+Overfull \hbox (24.8761pt too wide) in paragraph at lines 34--45
 \OML/cmm/m/it/10 I[]$
  []
 
 
-Overfull \hbox (24.8761pt too wide) in paragraph at lines 34--44
+Overfull \hbox (24.8761pt too wide) in paragraph at lines 34--45
 \OML/cmm/m/it/10 I[]$
  []
 
 
-Overfull \hbox (3.44513pt too wide) in paragraph at lines 34--44
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 34--45
 \OML/cmm/m/it/10 i$
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 34--44
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 34--45
 [] 
  []
 
@@ -2934,7 +3055,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 \begin{figure}
+l.46 \begin{figure}
                    [!ht]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2947,7 +3068,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 \begin{figure}[
+l.46 \begin{figure}[
                     !ht]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2958,7 +3079,7 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.47 \includegraphics
+l.48 \includegraphics
                      [scale=0.3]{wang_figures/mainfig}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2984,13 +3105,13 @@ Missing character: There is no g in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.47 \includegraphics[scale=0.3]{wang_
+l.48 \includegraphics[scale=0.3]{wang_
                                       figures/mainfig}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.47 ...egraphics[scale=0.3]{wang_figures/mainfig}
+l.48 ...egraphics[scale=0.3]{wang_figures/mainfig}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3005,7 +3126,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48 \caption
+l.49 \caption
              {A hierarchy of time scales in response to visual input.
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3014,7 +3135,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.53 ...taken from \cite{chaudhuri2015large-scale}
+l.54 ...taken from \cite{chaudhuri2015large-scale}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3024,7 +3145,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `chaudhuri2015large-scale' on page  undefined on input 
-line 53.
+line 54.
 
 
 ! LaTeX Error: \begin{document} ended by \end{figure}.
@@ -3033,7 +3154,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 \end{figure}
+l.57 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3042,7 +3163,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.56 \end{figure}
+l.57 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3053,7 +3174,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.56 \end{figure}
+l.57 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3062,12 +3183,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 45--57
+Overfull \hbox (20.0pt too wide) in paragraph at lines 46--58
 []
  []
 
 
-Overfull \hbox (3241.0255pt too wide) in paragraph at lines 45--57
+Overfull \hbox (3241.0255pt too wide) in paragraph at lines 46--58
 []\OML/cmm/m/it/10 igures=mainfig[][]$ 
  []
 
@@ -3078,7 +3199,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58 T
+l.59 T
       he response of the nodes in the network to pulsed input to area V1, in...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3182,7 +3303,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `fig:wang_fig' on page \thepage 
                                                   \space undefined\on@line .
-l.58 ...tex, is shown in figure \ref{fig:wang_fig}
+l.59 ...tex, is shown in figure \ref{fig:wang_fig}
                                                    A. Early areas such as V1...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3191,7 +3312,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:wang_fig' on page  undefined on input line 58.
+LaTeX Warning: Reference `fig:wang_fig' on page  undefined on input line 59.
 
 Missing character: There is no A in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -3452,7 +3573,7 @@ Missing character: There is no d in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `fig:wang_fig' on page \thepage 
                                                   \space undefined\on@line .
-l.59 ...put to area V1 are used \ref{fig:wang_fig}
+l.60 ...put to area V1 are used \ref{fig:wang_fig}
                                                    B and C.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3461,7 +3582,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:wang_fig' on page  undefined on input line 59.
+LaTeX Warning: Reference `fig:wang_fig' on page  undefined on input line 60.
 
 Missing character: There is no B in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -3525,7 +3646,7 @@ Missing character: There is no y in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `fig:wang_fig' on page \thepage 
                                                   \space undefined\on@line .
-l.60 ...ase along the hierarchy \ref{fig:wang_fig}
+l.61 ...ase along the hierarchy \ref{fig:wang_fig}
                                                    D.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3534,7 +3655,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:wang_fig' on page  undefined on input line 60.
+LaTeX Warning: Reference `fig:wang_fig' on page  undefined on input line 61.
 
 Missing character: There is no D in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -3552,9 +3673,14 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no . in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -3613,22 +3739,22 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 58--62
+Overfull \hbox (20.0pt too wide) in paragraph at lines 59--63
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 58--62
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 59--63
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 58--62
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 59--63
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 58--62
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 59--63
 []
  []
 
@@ -3639,7 +3765,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 \begin{figure}
+l.64 \begin{figure}
                    [!ht]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3652,7 +3778,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 \begin{figure}[
+l.64 \begin{figure}[
                     !ht]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3663,7 +3789,7 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.65 \includegraphics
+l.66 \includegraphics
                      [scale=0.3]{wang_figures/time_consts}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3689,13 +3815,13 @@ Missing character: There is no g in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.65 \includegraphics[scale=0.3]{wang_
+l.66 \includegraphics[scale=0.3]{wang_
                                       figures/time_consts}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.65 ...phics[scale=0.3]{wang_figures/time_consts}
+l.66 ...phics[scale=0.3]{wang_figures/time_consts}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3710,7 +3836,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.66 \caption
+l.67 \caption
              {The timescales for different models. Far left: the intact netw...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3719,7 +3845,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.66 ...in excitatory connection strength; i.e., $
+l.67 ...in excitatory connection strength; i.e., $
                                                   \eta=0$ in eqns. \ref{eq:w...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3730,7 +3856,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.66 ...xcitatory connection strength; i.e., $\eta
+l.67 ...xcitatory connection strength; i.e., $\eta
                                                   =0$ in eqns. \ref{eq:wang_...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3745,7 +3871,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <write> ...ference `eq:wang_exc' on page \thepage 
                                                   \space undefined\on@line .
-l.66 ... i.e., $\eta=0$ in eqns. \ref{eq:wang_exc}
+l.67 ... i.e., $\eta=0$ in eqns. \ref{eq:wang_exc}
                                                    and \ref{eq:wang_inh}. Th...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3754,7 +3880,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq:wang_exc' on page  undefined on input line 66.
+LaTeX Warning: Reference `eq:wang_exc' on page  undefined on input line 67.
 
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -3762,7 +3888,7 @@ Missing character: There is no d in font nullfont!
 ! Undefined control sequence.
 <write> ...ference `eq:wang_inh' on page \thepage 
                                                   \space undefined\on@line .
-l.66 ...s. \ref{eq:wang_exc} and \ref{eq:wang_inh}
+l.67 ...s. \ref{eq:wang_exc} and \ref{eq:wang_inh}
                                                   . The trend in the time co...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3771,7 +3897,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq:wang_inh' on page  undefined on input line 66.
+LaTeX Warning: Reference `eq:wang_inh' on page  undefined on input line 67.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no T in font nullfont!
@@ -4207,7 +4333,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.69 ...taken from \cite{chaudhuri2015large-scale}
+l.70 ...taken from \cite{chaudhuri2015large-scale}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4217,7 +4343,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `chaudhuri2015large-scale' on page  undefined on input 
-line 69.
+line 70.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -4228,39 +4354,39 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72 \end{figure}
+l.73 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 63--73
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--74
 []
  []
 
 
-Overfull \hbox (769.23685pt too wide) in paragraph at lines 63--73
+Overfull \hbox (769.23685pt too wide) in paragraph at lines 64--74
 []\OML/cmm/m/it/10 igures=time[]onsts[]$$^^Q \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 63--73
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 64--74
 \OT1/cmr/m/n/10 0$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 63--73
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 64--74
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 63--73
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 64--74
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 63--73
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 64--74
 []
  []
 
@@ -4271,7 +4397,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 I
+l.75 I
       n order to show that the gradient in the connection strength is indeed...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4422,7 +4548,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...fig:wang_time_consts' on page \thepage 
                                                   \space undefined\on@line .
-l.74 ...ved; see figure \ref{fig:wang_time_consts}
+l.75 ...ved; see figure \ref{fig:wang_time_consts}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4432,7 +4558,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `fig:wang_time_consts' on page  undefined on input lin
-e 74.
+e 75.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no R in font nullfont!
@@ -4734,7 +4860,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.77 ...e SLN value \cite{felleman1991distributed}
+l.78 ...e SLN value \cite{felleman1991distributed}
                                                   , from the connectivity ma...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4744,7 +4870,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `felleman1991distributed' on page  undefined on input l
-ine 77.
+ine 78.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -5003,37 +5129,37 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 74--79
+Overfull \hbox (20.0pt too wide) in paragraph at lines 75--80
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 74--79
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 75--80
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 74--79
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 75--80
 []
  []
 
 
-Overfull \hbox (40.2581pt too wide) in paragraph at lines 74--79
+Overfull \hbox (40.2581pt too wide) in paragraph at lines 75--80
 \OML/cmm/m/it/10 FLN[] \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 74--79
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 75--80
 \OT1/cmr/m/n/10 0$
  []
 
 
-Overfull \hbox (3.44513pt too wide) in paragraph at lines 74--79
+Overfull \hbox (3.44513pt too wide) in paragraph at lines 75--80
 \OML/cmm/m/it/10 i$
  []
 
 
-Overfull \hbox (4.69049pt too wide) in paragraph at lines 74--79
+Overfull \hbox (4.69049pt too wide) in paragraph at lines 75--80
 \OML/cmm/m/it/10 j$
  []
 
@@ -5044,7 +5170,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 \begin{figure}
+l.81 \begin{figure}
                    [!ht]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5057,7 +5183,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 \begin{figure}[
+l.81 \begin{figure}[
                     !ht]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5068,7 +5194,7 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.82 \includegraphics
+l.83 \includegraphics
                      [scale=0.4]{wang_figures/eigenvecs}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5094,13 +5220,13 @@ Missing character: There is no g in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.82 \includegraphics[scale=0.4]{wang_
+l.83 \includegraphics[scale=0.4]{wang_
                                       figures/eigenvecs}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.82 ...raphics[scale=0.4]{wang_figures/eigenvecs}
+l.83 ...raphics[scale=0.4]{wang_figures/eigenvecs}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5115,7 +5241,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 \caption
+l.84 \caption
              { The eigenvectors of the linearized equations. The eigenvector...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5125,7 +5251,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.84 ...taken from \cite{chaudhuri2015large-scale}
+l.85 ...taken from \cite{chaudhuri2015large-scale}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5135,7 +5261,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `chaudhuri2015large-scale' on page  undefined on input 
-line 84.
+line 85.
 
 
 ! LaTeX Error: \begin{document} ended by \end{figure}.
@@ -5144,7 +5270,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 \end{figure}
+l.88 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5153,7 +5279,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.87 \end{figure}
+l.88 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -5164,7 +5290,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.87 \end{figure}
+l.88 \end{figure}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -5173,12 +5299,12 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 80--88
+Overfull \hbox (20.0pt too wide) in paragraph at lines 81--89
 []
  []
 
 
-Overfull \hbox (1124.54948pt too wide) in paragraph at lines 80--88
+Overfull \hbox (1124.54948pt too wide) in paragraph at lines 81--89
 []\OML/cmm/m/it/10 igures=eigenvecs[][]$ 
  []
 
@@ -5189,8 +5315,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.89 N
-      eglecting the non-linearity, replacing $[x]_+$ by  $[x]=x$ in eqns. \r...
+l.90 N
+      eglecting the non-linearity in the model, replacing $[x]_+$ by  $[x]=x...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5221,6 +5347,16 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no y in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -5243,8 +5379,8 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <write> ...ference `eq:wang_exc' on page \thepage 
                                                   \space undefined\on@line .
-l.89 ..._+$ by  $[x]=x$ in eqns. \ref{eq:wang_exc}
-                                                   and \ref{eq:wang_inh}, in...
+l.90 ..._+$ by  $[x]=x$ in eqns. \ref{eq:wang_exc}
+                                                   and \ref{eq:wang_inh}, on...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5252,7 +5388,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq:wang_exc' on page  undefined on input line 89.
+LaTeX Warning: Reference `eq:wang_exc' on page  undefined on input line 90.
 
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
@@ -5260,8 +5396,8 @@ Missing character: There is no d in font nullfont!
 ! Undefined control sequence.
 <write> ...ference `eq:wang_inh' on page \thepage 
                                                   \space undefined\on@line .
-l.89 ...s. \ref{eq:wang_exc} and \ref{eq:wang_inh}
-                                                  , in the model one can use...
+l.90 ...s. \ref{eq:wang_exc} and \ref{eq:wang_inh}
+                                                  , one can use linear syste...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5269,19 +5405,9 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq:wang_inh' on page  undefined on input line 89.
+LaTeX Warning: Reference `eq:wang_inh' on page  undefined on input line 90.
 
 Missing character: There is no , in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -5376,7 +5502,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.89 ... of the eigenvectors \cite{rugh1993linear}
+l.90 ... of the eigenvectors \cite{rugh1993linear}
                                                   . The timescales of the ei...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5385,7 +5511,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `rugh1993linear' on page  undefined on input line 89.
+LaTeX Warning: Citation `rugh1993linear' on page  undefined on input line 90.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -5560,7 +5686,7 @@ Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
 <write> ... `fig:wang_eigenvecs' on page \thepage 
                                                   \space undefined\on@line .
-l.89 ...number of entries \ref{fig:wang_eigenvecs}
+l.90 ...number of entries \ref{fig:wang_eigenvecs}
                                                   . The eigenvectors that ar...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5570,7 +5696,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `fig:wang_eigenvecs' on page  undefined on input line 
-89.
+90.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no T in font nullfont!
@@ -5777,7 +5903,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `fig:wang_fig' on page \thepage 
                                                   \space undefined\on@line .
-l.89 ... the findings in figure \ref{fig:wang_fig}
+l.90 ... the findings in figure \ref{fig:wang_fig}
                                                   : areas early in the hiera...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5786,7 +5912,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:wang_fig' on page  undefined on input line 89.
+LaTeX Warning: Reference `fig:wang_fig' on page  undefined on input line 90.
 
 Missing character: There is no : in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -5898,68 +6024,68 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 89--90
+Overfull \hbox (20.0pt too wide) in paragraph at lines 90--91
 []
  []
 
 
-Overfull \hbox (17.90976pt too wide) in paragraph at lines 89--90
+Overfull \hbox (17.90976pt too wide) in paragraph at lines 90--91
 \OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ][]$
  []
 
 
-Overfull \hbox (21.82635pt too wide) in paragraph at lines 89--90
+Overfull \hbox (21.82635pt too wide) in paragraph at lines 90--91
 \OT1/cmr/m/n/10 [\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ] =
  []
 
 
-Overfull \hbox (5.71527pt too wide) in paragraph at lines 89--90
+Overfull \hbox (5.71527pt too wide) in paragraph at lines 90--91
 \OML/cmm/m/it/10 x$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 89--90
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 90--91
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 89--90
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 90--91
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 89--90
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 90--91
 []
  []
 
 
-Overfull \hbox (16.05899pt too wide) in paragraph at lines 89--90
+Overfull \hbox (16.05899pt too wide) in paragraph at lines 90--91
 \OML/cmm/m/it/10 ^^\ \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (38.15984pt too wide) in paragraph at lines 89--90
+Overfull \hbox (38.15984pt too wide) in paragraph at lines 90--91
 \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 =Re\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 ^^U\OMS
 /cmsy/m/n/10 g$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 89--90
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 90--91
 []
  []
 
 
-Overfull \hbox (23.46767pt too wide) in paragraph at lines 89--90
+Overfull \hbox (23.46767pt too wide) in paragraph at lines 90--91
 []\OT1/cmr/m/n/10 43\OML/cmm/m/it/10 ms$
  []
 
 
-Overfull \hbox (9.68752pt too wide) in paragraph at lines 89--90
+Overfull \hbox (9.68752pt too wide) in paragraph at lines 90--91
 []\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 s$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 89--90
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 90--91
 []
  []
 
@@ -5971,10 +6097,10 @@ Overfull \hbox (10.86105pt too wide) in paragraph at lines 89--90
 
  
 Here is how much of TeX's memory you used:
- 32 strings out of 493117
- 583 string characters out of 6135433
+ 34 strings out of 493117
+ 602 string characters out of 6135433
  59909 words of memory out of 5000000
- 3594 multiletter control sequences out of 15000+600000
+ 3596 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  20i,7n,26p,958b,92s stack positions out of 5000i,500n,10000p,200000b,80000s
